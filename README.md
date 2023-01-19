@@ -8,3 +8,5 @@ No terminal, execute os comandos:
 cd ruby
 ruby customer_success_balancing.rb
 ```
+
+https://tech.rdstation.com/
